@@ -209,6 +209,7 @@ body {
   padding-top: 200px;
   padding-bottom: 200px;
   padding-left: 0;
+  max-width: 1600px;
 }
 
 .promo-txt {
