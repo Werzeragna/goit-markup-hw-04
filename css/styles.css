@@ -181,7 +181,7 @@ body {
 .mlink-icon,
 .tlink-icon {
   margin-right: 10px;
-  fill: var(--clients-color);
+  fill: #757575;
 }
 
 .mlink:hover .mlink-icon,
